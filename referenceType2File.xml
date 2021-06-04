@@ -1,0 +1,2586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>1bc4e4b9af3315e4a829993a8f7d5636</guid>
+    <fileName>Assets/Plugins/NativeShare/NativeShare.cs</fileName>
+    <timeStamp>2020-08-17T11:52:21.9898215+05:30</timeStamp>
+    <typeFullName>
+      <string>NativeShare</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>49ddd46fdeeb9384c858b0daaebb6071</guid>
+    <fileName>Assets/Plugins/NativeShare/Editor/NSPostProcessBuild.cs</fileName>
+    <timeStamp>2020-08-17T11:52:21.9788511+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>14f792cf7e7feda439d2d1927bbc7855</guid>
+    <fileName>Assets/Assets_IF/Scripts/Character/Character.cs</fileName>
+    <timeStamp>2020-09-10T23:42:36.80246+05:30</timeStamp>
+    <typeFullName>
+      <string>Character</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>36bfe918dc9f974488d0211b1b8e6f9d</guid>
+    <fileName>Assets/Assets_IF/Scripts/Character/CharacterData.cs</fileName>
+    <timeStamp>2020-09-03T15:07:58.7120796+05:30</timeStamp>
+    <typeFullName>
+      <string>CharacterData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>135b3140c50c25a44837c8539078f2c3</guid>
+    <fileName>Assets/Assets_IF/Scripts/Character/PlayerManager.cs</fileName>
+    <timeStamp>2020-09-10T23:42:56.1840419+05:30</timeStamp>
+    <typeFullName>
+      <string>PlayerManager</string>
+      <string>PlayerManager+DEL_Character</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a3c868e696d0f00428a8d7ad3414bc3f</guid>
+    <fileName>Assets/Assets_IF/Scripts/Character/Weapon.cs</fileName>
+    <timeStamp>2020-08-22T22:49:38.0575418+05:30</timeStamp>
+    <typeFullName>
+      <string>Weapon</string>
+      <string>Weapon+DEL_Weapons</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bf984792de3c6194fa8656d91deb1de8</guid>
+    <fileName>Assets/Assets_IF/Scripts/Colors/ColorClass.cs</fileName>
+    <timeStamp>2020-09-05T20:52:59.4382162+05:30</timeStamp>
+    <typeFullName>
+      <string>ColorClass</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ef6ef13c464cf8a44929cd31d96c42ac</guid>
+    <fileName>Assets/Assets_IF/Scripts/Colors/ColorData.cs</fileName>
+    <timeStamp>2020-08-28T08:42:55.6342331+05:30</timeStamp>
+    <typeFullName>
+      <string>ColorData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6f32bbdb984b94b4ca4c8d2519886b68</guid>
+    <fileName>Assets/Assets_IF/Scripts/Colors/ColorMixerClass.cs</fileName>
+    <timeStamp>2020-09-01T09:10:28.8167677+05:30</timeStamp>
+    <typeFullName>
+      <string>ColorMixerClass</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4fca45eaf7990bb40b70b797b5246a84</guid>
+    <fileName>Assets/Assets_IF/Scripts/Environment/DirectionLightTest.cs</fileName>
+    <timeStamp>2020-08-23T00:02:15.7054387+05:30</timeStamp>
+    <typeFullName>
+      <string>DirectionLightTest</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b5080556dcb9e0743a80cbe06ed864cf</guid>
+    <fileName>Assets/Assets_IF/Scripts/Environment/Platform.cs</fileName>
+    <timeStamp>2020-09-11T08:52:53.1699846+05:30</timeStamp>
+    <typeFullName>
+      <string>Platform</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4acc3425539083d4c93de6003f772feb</guid>
+    <fileName>Assets/Assets_IF/Scripts/Environment/PlatformManager.cs</fileName>
+    <timeStamp>2020-09-11T07:34:34.0601061+05:30</timeStamp>
+    <typeFullName>
+      <string>PlatformManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ca0308e437d89204bb273f0446fbc205</guid>
+    <fileName>Assets/Assets_IF/Scripts/Environment/StateDie.cs</fileName>
+    <timeStamp>2020-08-21T14:24:03.8452432+05:30</timeStamp>
+    <typeFullName>
+      <string>StateDie</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bd571f58f2d8bf740bff13a79a8aba7c</guid>
+    <fileName>Assets/Assets_IF/Scripts/Extras/GameManager.cs</fileName>
+    <timeStamp>2020-09-11T07:53:09.7988841+05:30</timeStamp>
+    <typeFullName>
+      <string>GameManager</string>
+      <string>GameManager+DEL_GameStateChanged</string>
+      <string>GameManager+DEL_SOUNDS_SETTINGS</string>
+      <string>InvisibleFiction.LevelState</string>
+      <string>InvisibleFiction.Sounds</string>
+      <string>InvisibleFiction.ExtensionMethods</string>
+      <string>InvisibleFiction.DeletePlayerPrefsScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c4ac785ea3a0fb54c8481863e43ce056</guid>
+    <fileName>Assets/Assets_IF/Scripts/Extras/LevelManager.cs</fileName>
+    <timeStamp>2020-09-11T07:37:04.6517742+05:30</timeStamp>
+    <typeFullName>
+      <string>LevelManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e333bf5d4d1f95b478cebcc71526b7cf</guid>
+    <fileName>Assets/Assets_IF/Scripts/Extras/RotationPreset.cs</fileName>
+    <timeStamp>2020-08-17T11:52:00+05:30</timeStamp>
+    <typeFullName>
+      <string>RotationPreset</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>79639190deae8d64495af2194cdc03ca</guid>
+    <fileName>Assets/Assets_IF/Scripts/Obstacle/Obstacle.cs</fileName>
+    <timeStamp>2020-09-05T21:45:27.0220082+05:30</timeStamp>
+    <typeFullName>
+      <string>Obstacle</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d33827595de7eed40b97386bd5ebd600</guid>
+    <fileName>Assets/Assets_IF/Scripts/Obstacle/ObstacleManager.cs</fileName>
+    <timeStamp>2020-09-11T08:49:53.3104488+05:30</timeStamp>
+    <typeFullName>
+      <string>ObstacleManager</string>
+      <string>ObstacleManager+DEL_Obstacles</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1edb441ab70c0604da4df193e8ad032d</guid>
+    <fileName>Assets/Assets_IF/Scripts/Obstacle/RotationManager.cs</fileName>
+    <timeStamp>2020-09-10T23:05:38.5694561+05:30</timeStamp>
+    <typeFullName>
+      <string>RotationManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4a53235f70a7de544b52cba5f88e0965</guid>
+    <fileName>Assets/Assets_IF/Scripts/PaintBall/PaintBall.cs</fileName>
+    <timeStamp>2020-09-10T20:54:22.5501596+05:30</timeStamp>
+    <typeFullName>
+      <string>PaintBall</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b0661c172216e9e4d9eb2ee94da92fa7</guid>
+    <fileName>Assets/Assets_IF/Scripts/PaintBall/PaintBallManager.cs</fileName>
+    <timeStamp>2020-09-04T21:05:31.7584892+05:30</timeStamp>
+    <typeFullName>
+      <string>PaintBallManager</string>
+      <string>PaintBallManager+DEL_PaintBalls</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>63e8e0d7f33f46544b14a20f1236fda5</guid>
+    <fileName>Assets/Assets_IF/Scripts/UI/AdButtonTimer.cs</fileName>
+    <timeStamp>2020-09-05T12:01:27.0838246+05:30</timeStamp>
+    <typeFullName>
+      <string>AdButtonTimer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8d2dfaf3b0262a642b5ea02e57c99d6c</guid>
+    <fileName>Assets/Assets_IF/Scripts/UI/AdManager.cs</fileName>
+    <timeStamp>2020-09-11T07:56:02.0586163+05:30</timeStamp>
+    <typeFullName>
+      <string>AdManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a809f164c7e832c4eb8d53fe50c9ca14</guid>
+    <fileName>Assets/Assets_IF/Scripts/UI/CameraController.cs</fileName>
+    <timeStamp>2020-08-31T16:46:05.6955995+05:30</timeStamp>
+    <typeFullName>
+      <string>CameraController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1967bfabc2c831046bf4ceb9054bb797</guid>
+    <fileName>Assets/Assets_IF/Scripts/UI/LightController.cs</fileName>
+    <timeStamp>2020-08-23T00:50:19.842359+05:30</timeStamp>
+    <typeFullName>
+      <string>LightController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4dfc3ca874acb0c488572da245048b08</guid>
+    <fileName>Assets/Assets_IF/Scripts/UI/MoveObjects.cs</fileName>
+    <timeStamp>2020-09-10T23:42:34.9807236+05:30</timeStamp>
+    <typeFullName>
+      <string>MoveObjects</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>84eba6e6d0e480744938079baf0369bd</guid>
+    <fileName>Assets/Assets_IF/Scripts/UI/SafeArea.cs</fileName>
+    <timeStamp>2020-08-17T11:52:00+05:30</timeStamp>
+    <typeFullName>
+      <string>Crystal.SafeArea</string>
+      <string>Crystal.SafeArea+SimDevice</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2d2d761c27cdd2c4183cf9cc481ab2c0</guid>
+    <fileName>Assets/Assets_IF/Scripts/UI/ScrollPanel.cs</fileName>
+    <timeStamp>2020-08-26T22:40:30.1315105+05:30</timeStamp>
+    <typeFullName>
+      <string>ScrollPanel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d17826c033b83cd4d92c94e77248d50f</guid>
+    <fileName>Assets/Assets_IF/Scripts/UI/SoundManager.cs</fileName>
+    <timeStamp>2020-09-04T11:14:32.8543148+05:30</timeStamp>
+    <typeFullName>
+      <string>SoundManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2186b293dd04b5643952b9177ff0e2e0</guid>
+    <fileName>Assets/Assets_IF/Scripts/UI/SplashScreen.cs</fileName>
+    <timeStamp>2020-09-11T07:57:37.6136269+05:30</timeStamp>
+    <typeFullName>
+      <string>SplashScreen</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>644bfaca88ddf734fa39f11ce3ca6723</guid>
+    <fileName>Assets/Assets_IF/Scripts/UI/UIManager.cs</fileName>
+    <timeStamp>2020-09-11T14:44:58.5658518+05:30</timeStamp>
+    <typeFullName>
+      <string>UIManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9f61a6b8894d24e4492df94ce905372c</guid>
+    <fileName>Assets/Assets_IF_Cut/Script/IFCut.cs</fileName>
+    <timeStamp>2020-09-02T09:20:14+05:30</timeStamp>
+    <typeFullName>
+      <string>IFCut</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>33349c5015fcb2142b983edf222ca56c</guid>
+    <fileName>Assets/Assets_IF_Cut/Script/IFShatter.cs</fileName>
+    <timeStamp>2020-09-10T21:30:34.3312236+05:30</timeStamp>
+    <typeFullName>
+      <string>IFShatter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>99ed8978b8b8e0b40a6e68a11315624a</guid>
+    <fileName>Assets/Assets_IF_Cut/Script/MeshCut.cs</fileName>
+    <timeStamp>2020-09-02T08:32:01+05:30</timeStamp>
+    <typeFullName>
+      <string>MeshManipulation.MeshCut</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0e569c628bc3d514489be4d0dd3bb46b</guid>
+    <fileName>Assets/Assets_IF_Cut/Script/Mesh_Maker.cs</fileName>
+    <timeStamp>2020-09-02T08:32:01+05:30</timeStamp>
+    <typeFullName>
+      <string>MeshManipulation.Mesh_Maker</string>
+      <string>MeshManipulation.Mesh_Maker+Triangle</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1561ad5ecde53f84bae260b308e51a2f</guid>
+    <fileName>Assets/GabrielAguiarProductions/Scripts/CameraShakeSimpleScript.cs</fileName>
+    <timeStamp>2019-02-13T17:29:25+05:30</timeStamp>
+    <typeFullName>
+      <string>CameraShakeSimpleScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>12ba759cd568c0e47a7018ab70867a0d</guid>
+    <fileName>Assets/GabrielAguiarProductions/Scripts/ProjectileMoveScript.cs</fileName>
+    <timeStamp>2020-08-31T15:09:14.320535+05:30</timeStamp>
+    <typeFullName>
+      <string>ProjectileMoveScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b471b1df235ed774e9063eb5be974d7b</guid>
+    <fileName>Assets/GabrielAguiarProductions/Scripts/RotateToMouseScript.cs</fileName>
+    <timeStamp>2019-02-15T21:25:10+05:30</timeStamp>
+    <typeFullName>
+      <string>RotateToMouseScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e8a636f62116c0a40bbfefdf876d4608</guid>
+    <fileName>Assets/GabrielAguiarProductions/Scripts/SimpleCameraController.cs</fileName>
+    <timeStamp>2019-03-11T17:45:16+05:30</timeStamp>
+    <typeFullName>
+      <string>UnityTemplateProjects.SimpleCameraController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d2eb83ec655d71b498b43c9ebccd8066</guid>
+    <fileName>Assets/GabrielAguiarProductions/Scripts/SpawnProjectilesScript.cs</fileName>
+    <timeStamp>2019-02-15T21:35:30+05:30</timeStamp>
+    <typeFullName>
+      <string>SpawnProjectilesScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b9e272d634f40434b85fbf756732714d</guid>
+    <fileName>Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Scripts/ParticleSystemController/ParticleSystemController.cs</fileName>
+    <timeStamp>2019-03-13T20:22:08+05:30</timeStamp>
+    <typeFullName>
+      <string>GAP_ParticleSystemController.ParticleSystemOriginalSettings</string>
+      <string>GAP_ParticleSystemController.ParticleSystemController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>45d4e8a998e88754d8ce3fc6827b2912</guid>
+    <fileName>Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Scripts/ParticleSystemController/ParticleSystemControllerEditor.cs</fileName>
+    <timeStamp>2018-07-22T15:43:18+05:30</timeStamp>
+    <typeFullName>
+      <string>GAP_ParticleSystemController.ParticleSystemControllerEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ebcd90b1eae99d848ad993f40990f336</guid>
+    <fileName>Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Scripts/ParticleSystemController/SaveParticleSystemScript.cs</fileName>
+    <timeStamp>2019-04-28T04:38:38+05:30</timeStamp>
+    <typeFullName>
+      <string>GAP_ParticleSystemController.SaveParticleSystemScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>06137310f20d06f4eb859f958f491cc1</guid>
+    <fileName>Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Scripts/ParticleSystemController/Serializables.cs</fileName>
+    <timeStamp>2018-09-22T16:18:55+05:30</timeStamp>
+    <typeFullName>
+      <string>GAP_ParticleSystemController.SerializableMinMaxGradient</string>
+      <string>GAP_ParticleSystemController.SerializableMinMaxCurve</string>
+      <string>GAP_ParticleSystemController.SerializableAnimationCurve</string>
+      <string>GAP_ParticleSystemController.SerializableKeyFrames</string>
+      <string>GAP_ParticleSystemController.SerializableAlphaKeys</string>
+      <string>GAP_ParticleSystemController.SerializableColorKeys</string>
+      <string>GAP_ParticleSystemController.SerializableColor</string>
+      <string>GAP_ParticleSystemController.SerializableVector3</string>
+      <string>GAP_ParticleSystemController.SerializableGradient</string>
+      <string>GAP_ParticleSystemController.SerializablePSGradientMode</string>
+      <string>GAP_ParticleSystemController.SerializableGradientMode</string>
+      <string>GAP_ParticleSystemController.SerializablePSCurveMode</string>
+      <string>GAP_ParticleSystemController.SerializableWrapMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f5474196001554b6da135319d9475e61</guid>
+    <fileName>Assets/GoogleMobileAds/Api/AdLoader.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5c1fdac85e0d64c298684a5ee009e19e</guid>
+    <fileName>Assets/GoogleMobileAds/Api/BannerView.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5188b1fa1a1b148ce8e88835595e660d</guid>
+    <fileName>Assets/GoogleMobileAds/Api/CustomNativeEventArgs.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6f029b4086c1141ffad2e59dd23f14f4</guid>
+    <fileName>Assets/GoogleMobileAds/Api/CustomNativeTemplateAd.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7a51fabfaa838494da2f6a212c6b42d1</guid>
+    <fileName>Assets/GoogleMobileAds/Api/InitializationStatus.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8e2900126dc684a6aaa9b7afc920845a</guid>
+    <fileName>Assets/GoogleMobileAds/Api/InterstitialAd.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>90ca57af4a5ca48cda96227b0a69ffdc</guid>
+    <fileName>Assets/GoogleMobileAds/Api/MobileAds.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c37b2a1ea20574580af643f02302c484</guid>
+    <fileName>Assets/GoogleMobileAds/Api/RewardBasedVideoAd.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c1b2846f99e3544d18adc12c74a8adb0</guid>
+    <fileName>Assets/GoogleMobileAds/Api/RewardedAd.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2e2b67ea0058a455a9dfd80c434e32a1</guid>
+    <fileName>Assets/GoogleMobileAds/Api/Core/AdapterStatus.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74f97ea4845754c1894b01dea7febe52</guid>
+    <fileName>Assets/GoogleMobileAds/Api/Core/AdErrorEventArgs.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9cad056579bb74a66b5ffd02ae5584da</guid>
+    <fileName>Assets/GoogleMobileAds/Api/Core/AdFailedToLoadEventArgs.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cb883bd6de7584eaa9c1979eb3236bde</guid>
+    <fileName>Assets/GoogleMobileAds/Api/Core/AdPosition.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>34ba404a3fd894e7abc99e14fbf1d49d</guid>
+    <fileName>Assets/GoogleMobileAds/Api/Core/AdRequest.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bd009f3ff246e43c8934c5bfb17e2a5a</guid>
+    <fileName>Assets/GoogleMobileAds/Api/Core/AdSize.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a7cd46116af3b4d64a36ff601cc7e7cb</guid>
+    <fileName>Assets/GoogleMobileAds/Api/Core/AdValue.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>84e98eb3d87714dd88a6ab25e123204c</guid>
+    <fileName>Assets/GoogleMobileAds/Api/Core/AdValueEventArgs.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2631c863a63364b4c8719e2d94950cd5</guid>
+    <fileName>Assets/GoogleMobileAds/Api/Core/Gender.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>46f30b0f9098945189771fb2da24e4c7</guid>
+    <fileName>Assets/GoogleMobileAds/Api/Core/MaxAdContentRating.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>412d2e0f2cce4485bbef1884d1a22415</guid>
+    <fileName>Assets/GoogleMobileAds/Api/Core/NativeAdType.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>387da3c3740634c7182cae2e217001ec</guid>
+    <fileName>Assets/GoogleMobileAds/Api/Core/RequestConfiguration.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c5920a3c367fc4080bdd9e191f0efbb6</guid>
+    <fileName>Assets/GoogleMobileAds/Api/Core/Reward.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>95485c553625a48bd81acf6ce11c4068</guid>
+    <fileName>Assets/GoogleMobileAds/Api/Core/ServerSideVerificationOptions.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7054c7fb845604f3b9e12fbeb2b70af3</guid>
+    <fileName>Assets/GoogleMobileAds/Api/Core/TagForChildDirectedTreatment.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4d529245f17424fcf93cf52c8a46e3e9</guid>
+    <fileName>Assets/GoogleMobileAds/Api/Core/TagForUnderAgeOfConsent.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0de15b956fe424835a3adc74de6e677d</guid>
+    <fileName>Assets/GoogleMobileAds/Api/Mediation/MediationExtras.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>23e3d6260580e4c4cbe99b4a168121e9</guid>
+    <fileName>Assets/GoogleMobileAds/Common/AdLoaderClientArgs.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>36a75d9e4f2914453a9c483fb88525ed</guid>
+    <fileName>Assets/GoogleMobileAds/Common/CustomNativeClientEventArgs.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5858abc6dbdeb46fabb82d3296604951</guid>
+    <fileName>Assets/GoogleMobileAds/Common/DummyClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e703b22fc2fa4419585d4be4933b84f9</guid>
+    <fileName>Assets/GoogleMobileAds/Common/IAdLoaderClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>622f4e1f14d7c4b889ca12eb78235e05</guid>
+    <fileName>Assets/GoogleMobileAds/Common/IBannerClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c23272b29f0a84084a2f13f05389c1fc</guid>
+    <fileName>Assets/GoogleMobileAds/Common/ICustomNativeTemplateClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5aae28a33c3ec489ba986effbf758dcd</guid>
+    <fileName>Assets/GoogleMobileAds/Common/IInitializationStatusClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>45adb5cd8be674c93bed0f4d40a6deec</guid>
+    <fileName>Assets/GoogleMobileAds/Common/IInterstitialClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>574593b9659a74b2289baf1760b0a016</guid>
+    <fileName>Assets/GoogleMobileAds/Common/IMobileAdsClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>03e96fc5475154376a9744dc2f6ab46d</guid>
+    <fileName>Assets/GoogleMobileAds/Common/IRewardBasedVideoAdClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6ba29432847f54fcbbe79dc97f4818c8</guid>
+    <fileName>Assets/GoogleMobileAds/Common/IRewardedAdClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>47051d8b7ddc740e0b6b0810061c8872</guid>
+    <fileName>Assets/GoogleMobileAds/Common/MobileAdsEventExecutor.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7748bc3cf16474e3e95f851b697660da</guid>
+    <fileName>Assets/GoogleMobileAds/Common/RewardedAdDummyClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>39482316a80234c968714f1959838123</guid>
+    <fileName>Assets/GoogleMobileAds/Common/Utils.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9a8467f2e458e4cc2a3e74b8fc87260e</guid>
+    <fileName>Assets/GoogleMobileAds/Editor/AndroidBuildPostProcessor.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01.3897035+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a187246822bbb47529482707f3e0eff8</guid>
+    <fileName>Assets/GoogleMobileAds/Editor/GoogleMobileAdsSettings.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01.3926943+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8afb1338afbd34c4fac628cd6175c032</guid>
+    <fileName>Assets/GoogleMobileAds/Editor/GoogleMobileAdsSettingsEditor.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01.3936924+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c9ee5d47594eb43a19e795c834fdc044</guid>
+    <fileName>Assets/GoogleMobileAds/Editor/ManifestProcessor.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01.3946895+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d1d26b084dc244c8c818f67662e51f6c</guid>
+    <fileName>Assets/GoogleMobileAds/Editor/PListProcessor.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01.3956866+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6282c3acdf4eb41cebb4eae72326ba2e</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/GoogleMobileAdsClientFactory.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5bc0a5f7f000d4027bd3e5192cc1269a</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/Android/AdLoaderClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cd0003e7fdcd843daa86113292ce0446</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/Android/BannerClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7e76e9223a0d64aa7972f18446dab8ff</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/Android/CustomNativeTemplateClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cf7395fcbda8f4d9ab9b39576d0a6115</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/Android/DisplayMetrics.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>39e48821c58d946b0ad3e8e7a2ae2a4a</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/Android/InitializationStatusClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0a6253761f8804645a2ab74d916284ed</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/Android/InterstitialClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9efbe79a398474b1fb942b960e7367b4</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/Android/MobileAdsClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5ec7d824af4d448a0b5284adfc710154</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/Android/RequestConfigurationClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a1e210d603a434d7ba2021f95f0d666c</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/Android/RewardBasedVideoAdClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>efe80f4cc4cf34115bb52be0fe4016bf</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/Android/RewardedAdClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e17a17026dc1549e090ee48995b0a982</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/Android/Utils.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c3adcf5ae777f49baac270e65cb1305f</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/iOS/AdLoaderClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>781449620de7e4db0b357e23b1a0fb58</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/iOS/BannerClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5a8d8a8af9c7540899a0ca681a8c6ac3</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/iOS/CustomNativeTemplateClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2e223930b947b4631aad0c53aa6fb8ba</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/iOS/Externs.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6639aa610a07a4c3ba4badb79e071756</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/iOS/GoogleMobileAdsClientFactory.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a637cad7baa2f4c34b42e83882faecf4</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/iOS/InitializationStatusClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>613e5f324478242909ace8f1b8bc0790</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/iOS/InterstitialClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>724408e8ee9ad4648943237d7f339bd4</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/iOS/MobileAdsClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3e9c3522c966c4c2cadfb64f2b984bbb</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/iOS/MonoPInvokeCallbackAttribute.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>05b5e059dd5d646fdb550c6ee9135c7e</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/iOS/RequestConfigurationClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9a286a90e882c4cd59f81ee4dc9d41ca</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/iOS/RewardBasedVideoAdClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>da3c3ee9b87da44a2a0acec018cf74ba</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/iOS/RewardedAdClient.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6cdc5afff21d6462390f1e3fc01cdcf1</guid>
+    <fileName>Assets/GoogleMobileAds/Platforms/iOS/Utils.cs</fileName>
+    <timeStamp>2020-08-17T11:52:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6fd2e8874f60266498a388d7229a1bac</guid>
+    <fileName>Assets/JMO Assets/Cartoon FX/Scripts/CFX_AutoDestructShuriken.cs</fileName>
+    <timeStamp>2020-08-17T11:52:03.1619578+05:30</timeStamp>
+    <typeFullName>
+      <string>CFX_AutoDestructShuriken</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d56b3c7055d81cb44803b5d7db4b65e0</guid>
+    <fileName>Assets/JMO Assets/Cartoon FX Easy Editor/Editor/CFXEasyEditor.cs</fileName>
+    <timeStamp>2020-08-17T11:52:02.8996606+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>879e454200e73ec4ebf2a93ad7829474</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Demo TCP2/Cat Demo Assets/Scripts/TCP2_Demo_Camera.cs</fileName>
+    <timeStamp>2020-04-07T13:43:55+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>40c5aea5a1505be4bae0d77d9c2267cd</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Demo TCP2/Cat Demo Assets/Scripts/TCP2_Demo_Cat.cs</fileName>
+    <timeStamp>2020-04-07T13:42:55+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f7e46eed8aaa7b549b83cd6635af5259</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Demo TCP2/Cat Demo Assets/Scripts/TCP2_Demo_GammaLinear.cs</fileName>
+    <timeStamp>2020-04-07T13:45:44+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4b74aadd00d9d549a23e8f134fa334d</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Demo TCP2/SG2 Demo Assets/_Misc/TCP2_Demo_AutoRotate.cs</fileName>
+    <timeStamp>2020-04-07T13:45:42+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e6941a9e132c91a4b994112c22a6225b</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Demo TCP2/TCP2 Demo Assets/Misc/TCP2_Demo.cs</fileName>
+    <timeStamp>2020-04-07T13:45:16+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>af96b843b0625fe4fa303c7c49cab76d</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Demo TCP2/TCP2 Demo Assets/Misc/TCP2_Demo_PBS.cs</fileName>
+    <timeStamp>2020-04-07T13:44:31+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cf3a1401bfe85ca4d90cf029b1e206b3</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Demo TCP2/TCP2 Demo Assets/Misc/TCP2_Demo_PBS_View.cs</fileName>
+    <timeStamp>2020-04-07T13:44:53+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>daf7d34e3de86f2448e0ddf37c9d6a9b</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Demo TCP2/TCP2 Demo Assets/Misc/TCP2_Demo_View.cs</fileName>
+    <timeStamp>2020-04-07T13:45:03+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f9d36f90bc95ff4469973bb0f9a52a12</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/TCP2_GradientManager.cs</fileName>
+    <timeStamp>2020-04-07T13:45:46+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f290a025336d91a4fa5e12823cb9e7ac</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/TCP2_Menu.cs</fileName>
+    <timeStamp>2020-04-07T13:45:40+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>08282aa30bf76374e8ec80c8b96320c4</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/TCP2_RampGenerator.cs</fileName>
+    <timeStamp>2020-04-07T13:42:08+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>766d6351ee0c03b449791f2055028e86</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/TCP2_SmoothedNormalsUtility.cs</fileName>
+    <timeStamp>2020-04-07T13:43:38+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e7c1109da7fe83445bc0445c22e04e0f</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Inspectors/MaterialInspector_SG2.cs</fileName>
+    <timeStamp>2020-04-07T13:45:16+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0b1f42519fac9ff40be68294216b750a</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Inspectors/TCP2_GetPosOnWater_Editor.cs</fileName>
+    <timeStamp>2020-04-07T13:42:13+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>efbf5b64530caae4cb0c552265891d0a</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Inspectors/TCP2_MaterialInspector.cs</fileName>
+    <timeStamp>2020-04-07T13:45:37+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9b2558a2bc0ac2f4c82b7a07d8d19887</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Inspectors/TCP2_MaterialInspector_PBS.cs</fileName>
+    <timeStamp>2020-04-07T13:44:13+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4c7c64a5c48ad94bb41f040f54e8176</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Inspectors/TCP2_OutlineInspector.cs</fileName>
+    <timeStamp>2020-04-07T13:45:42+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>11d2faac34363a847b01df848fe25e77</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Inspectors/TCP2_ShaderUpdateUnityTime_Editor.cs</fileName>
+    <timeStamp>2020-04-07T13:42:17+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3e3245e95e5106845be9bb392a342c38</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Legacy/TCP2_Config.cs</fileName>
+    <timeStamp>2020-04-07T13:42:54+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4de1971dd29ad24f85f95080be28fe7</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Legacy/TCP2_MaterialInspector_PBS_SG.cs</fileName>
+    <timeStamp>2020-04-07T13:45:43+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ca4a83adb4010c04d824159169edf441</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Legacy/TCP2_MaterialInspector_SG.cs</fileName>
+    <timeStamp>2020-04-07T13:44:50+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>32a8cb9db81a83743ad66902ccb3406b</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Legacy/TCP2_MaterialInspector_SurfacePBS_SG.cs</fileName>
+    <timeStamp>2020-04-07T13:42:44+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>95081e8b7bacefa4a850bd9be663e15c</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Legacy/TCP2_ShaderGenerator.cs</fileName>
+    <timeStamp>2020-04-07T13:44:08+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>608d9cb80edc72e4bb05ce0fb09b58e4</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Legacy/TCP2_ShaderGenerator.UIFeatures.cs</fileName>
+    <timeStamp>2020-04-07T13:43:22+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1e80a0bd926b289408f5f1e6acbab53e</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Legacy/TCP2_ShaderGeneratorUtils.cs</fileName>
+    <timeStamp>2020-04-07T13:42:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2ac1a4af92045af47a8c039bcdd5b55c</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Shader Generator/Config.cs</fileName>
+    <timeStamp>2020-04-07T13:42:36+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7d51d401d5c6d7e4a8fcbe735c63b6ce</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Shader Generator/GlobalOptions.cs</fileName>
+    <timeStamp>2020-04-07T13:43:46+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2f889d3ca34c2884eb1a88a3dcbf7b5a</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Shader Generator/Module.cs</fileName>
+    <timeStamp>2020-04-07T13:42:40+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e2c382e1dc4dc924fa3a26e7d6f2870e</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Shader Generator/ReorderableLayoutList.cs</fileName>
+    <timeStamp>2020-04-07T13:45:11+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1f0b8367b1159a34fb4976ef145bc1be</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Shader Generator/Serialization.cs</fileName>
+    <timeStamp>2020-04-07T13:42:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1e12ef10431c9b440be10147b310d33c</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Shader Generator/SGUILayout.cs</fileName>
+    <timeStamp>2020-04-07T13:42:25+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c7d70da95fbb4bb46be306e983337a45</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Shader Generator/ShaderGenerator2.cs</fileName>
+    <timeStamp>2020-04-07T13:44:47+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5816875e5d2345d4aa80eb1a4cda865a</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Shader Generator/ShaderProperty.cs</fileName>
+    <timeStamp>2020-04-07T13:43:12+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>11afc19e8750da84ea769854671be143</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Shader Generator/ShaderProperty.CustomMaterialProperty.cs</fileName>
+    <timeStamp>2020-04-07T13:42:16+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8c6aaf5c19ae6a34c9b509581ee06d10</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Shader Generator/ShaderProperty.Implementations.cs</fileName>
+    <timeStamp>2020-04-07T13:43:58+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>09216b4d7f831bd4c960fd240068c41e</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Shader Generator/Template.cs</fileName>
+    <timeStamp>2020-04-07T13:42:10+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b439497b951ac9b458a9f416ffc57f8d</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Shader Generator/Tooltip.cs</fileName>
+    <timeStamp>2020-04-07T13:44:37+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6537b21ece38eaa49aa8fe6f957541e1</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Shader Generator/UIFeatures.cs</fileName>
+    <timeStamp>2020-04-07T13:43:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>76b2e28c332ea394d83a06d34cbd7ab6</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Utils/TCP2_ExpressionParser.cs</fileName>
+    <timeStamp>2020-04-07T13:43:39+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8325afd721c866b4c92344ffd07dbfe0</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Utils/TCP2_GUI.cs</fileName>
+    <timeStamp>2020-04-07T13:43:52+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>791780d4276f53a4abafbb6422819382</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Editor/Utils/TCP2_Utils.cs</fileName>
+    <timeStamp>2020-04-07T13:43:41+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>22f2ef54430906348b022b68ba895598</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Scripts/TCP2_CameraDepth.cs</fileName>
+    <timeStamp>2020-04-07T13:42:29+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c6915f708139f354f84cc18a35d5bffc</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Scripts/TCP2_GetPosOnWater.cs</fileName>
+    <timeStamp>2020-04-07T13:44:46+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eb0c83b08dc2bc34d8ff212205dc5a1d</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Scripts/TCP2_PlanarReflection.cs</fileName>
+    <timeStamp>2020-04-07T13:45:30+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e8ecbfcd438a7354d944c458c5a422b2</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Scripts/TCP2_RuntimeUtils.cs</fileName>
+    <timeStamp>2020-04-07T13:45:17+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d62d909334bd8b148ac16b607553070e</guid>
+    <fileName>Assets/JMO Assets/Toony Colors Pro/Scripts/TCP2_ShaderUpdateUnityTime.cs</fileName>
+    <timeStamp>2020-04-07T13:44:57+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fe43750133b0f424e9aff96ebbb4979d</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Behaviors/CommentB.cs</fileName>
+    <timeStamp>2020-03-23T23:36:21+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.CommentB</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>96e86c0f2fb85e944a87bd2ace4945cc</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Behaviors/MessagesBehavior.cs</fileName>
+    <timeStamp>2020-03-23T23:35:04+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.IAnimatorListener</string>
+      <string>MalbersAnimations.IAnimatorParameters</string>
+      <string>MalbersAnimations.MessagesBehavior</string>
+      <string>MalbersAnimations.MesssageItem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ad499d1a6d3110b459db3b407551a28d</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Behaviors/SoundBehavior.cs</fileName>
+    <timeStamp>2020-03-23T23:35:25+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.SoundBehavior</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e1aa71623425a7d4895b23bcda2d481c</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Camera/CameraWallStop.cs</fileName>
+    <timeStamp>2020-03-23T23:36:01+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.CameraWallStop</string>
+      <string>MalbersAnimations.CameraWallStop+RayHitComparer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bf4fe8d2c2deed349a8352be50639a2a</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Camera/ChangeTarget.cs</fileName>
+    <timeStamp>2020-03-23T23:35:37+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.ChangeTarget</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2501913ea81158845b6a598bdfd0600b</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Camera/FreeLockCameraManager.cs</fileName>
+    <timeStamp>2020-03-23T23:33:47+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.FreeLockCameraManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>80ccf1736318948418ac07aa1ce43dfb</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Camera/FreeLookCameraState.cs</fileName>
+    <timeStamp>2020-03-23T23:34:48+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.FreeLookCameraState</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>58a61398c049edc43bc6ba3524c962e5</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Camera/MFreeLookCamera.cs</fileName>
+    <timeStamp>2020-03-23T23:34:19+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.MFreeLookCamera</string>
+      <string>MalbersAnimations.MFreeLookCamera+UpdateType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>06652ffc5bbd09541a1cba1249c93427</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Camera/MProtectCameraFromWallClip.cs</fileName>
+    <timeStamp>2020-03-23T23:33:27+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.SA.MProtectCameraFromWallClip</string>
+      <string>MalbersAnimations.SA.MProtectCameraFromWallClip+RayHitComparer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>af53fd611ac275644981d1694d073c3c</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Compatible StA/FirstPersonCharacter/MRigidFPS.cs</fileName>
+    <timeStamp>2020-03-23T23:35:28+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.SA.MRigidFPS</string>
+      <string>MalbersAnimations.SA.MMMovementSettings</string>
+      <string>MalbersAnimations.SA.MMAdvancedSettings</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>71acd259afdb94b4e97a518d40796026</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Compatible StA/FirstPersonCharacter/Scripts/MHeadBob.cs</fileName>
+    <timeStamp>2020-03-23T23:34:32+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.SA.MLerpControlledBob</string>
+      <string>MalbersAnimations.SA.MCurveControlledBob</string>
+      <string>MalbersAnimations.SA.MHeadBob</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>388413919485e03419686dc8e261fd89</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Compatible StA/FirstPersonCharacter/Scripts/MMouseLook.cs</fileName>
+    <timeStamp>2020-03-23T23:33:59+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.SA.MMouseLook</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ffff5961cea0b2b46a128072bbf0ac39</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Compatible StA/FirstPersonCharacter/Scripts/MRigidbodyFPSController.cs</fileName>
+    <timeStamp>2020-03-23T23:36:22+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.SA.MRigidbodyFPSController</string>
+      <string>MalbersAnimations.SA.MMovementSettings</string>
+      <string>MalbersAnimations.SA.MAdvancedSettings</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2819ff1ab9697e34a93d4ba269a8659f</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/ActiveMeshesEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:33:49+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d37c1de4b24895241b18b6fdbc68b01a</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/AnimEventSoundEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:35:54+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7e7054bbcf6cf054585cbb9e115779dc</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/BlendShapeEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:34:46+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>99908f0b44909d6428df01f182b4df19</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/CommentEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:35:07+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3292cd3a026af7c4d928c401e32e3528</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/FlagDrawer.cs</fileName>
+    <timeStamp>2020-03-23T23:33:56+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>22107d6f6692dba4285106f43af07cbf</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/InputRowDrawer.cs</fileName>
+    <timeStamp>2020-03-23T23:33:44+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7d4d98ca873250f4cb91451c7407dc41</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/MalbersEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:34:43+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3ecd9f058bc700842a491bcc5afe6262</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/MalbersInputEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:34:05+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1e11230bf3e8e2247b65caf8976bc340</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/MaterialChangerEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:33:41+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>82345e112e52b0b4e97e6f5bccacb636</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/MessagesEd.cs</fileName>
+    <timeStamp>2020-03-23T23:34:48+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1152c04aa584b3246a8ff47106cd0ee4</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/MEventEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:33:34+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fb343d2202a3c8f4596f0fc118b17e8b</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/MEventListenerEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:36:17+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>373e6cecc3b91c74dae838cebc8981ad</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/RangedFloatDrawer.cs</fileName>
+    <timeStamp>2020-03-23T23:33:58+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8268f81018a3348468780b89b9a3592e</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/SoundByMaterialEd.cs</fileName>
+    <timeStamp>2020-03-23T23:34:49+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ad15ac5b40c7b8d41ac993a5c0a34762</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/TransformAnimationEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:35:24+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6149340cbaf3c944f8218d5a4394611b</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/TriggerProxyEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:34:23+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>15b00c1cce73b1046ad70284a7a448bb</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/Behaviours/CommentBEd.cs</fileName>
+    <timeStamp>2020-03-23T23:33:37+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b3f4e4b7f142a794cb60da1a620f4c55</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/Behaviours/MessagesBehaviorEd.cs</fileName>
+    <timeStamp>2020-03-23T23:35:32+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b207824bc9ed3164c8b14a786db1316d</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/Drawers/AdvIntegerComparerDrawer.cs</fileName>
+    <timeStamp>2020-03-23T23:35:29+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fc363429f3e5b704b813fe781dfaaaa2</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/Drawers/ConditionalHidePropertyDrawer.cs</fileName>
+    <timeStamp>2020-03-23T23:36:19+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d211641b32a7a9a43895d2642c8db4cb</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/Drawers/IDDrawer.cs</fileName>
+    <timeStamp>2020-03-23T23:35:54+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>581336345a465ce41bc85eee80424d95</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/Drawers/MessageDrawer.cs</fileName>
+    <timeStamp>2020-03-23T23:34:19+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6b9d43fcaf2d5ac4eb10bdbc7659aabd</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/Drawers/RequiredFieldDrawer.cs</fileName>
+    <timeStamp>2020-03-23T23:34:29+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0608ec0ea33f1fd4d9cb3b09e29691e6</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/Input/InputAxisDrawer.cs</fileName>
+    <timeStamp>2020-03-23T23:33:27+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>236dc3c3ef6a3d942a9823eb7861e565</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/Input/MInputEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:33:45+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>13343b5dedde1cb488e70e6e144999a6</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/Input/MobileJoystickEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:33:35+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>491a902446562154389f94dc99116d8b</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/Scriptables/ResetScriptableVarsEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:34:09+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>de5ce2095c643fb4097e7ec8b5f4e790</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/Scriptables/TagEd.cs</fileName>
+    <timeStamp>2020-03-23T23:36:00+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>14e2f925cb3afe1468b21dc00662a9eb</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/Utilities/AlignEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:33:36+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9858281053b64c249b8f0cde1cc0aa68</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Editor/Utilities/SerializablePropertyExtensions.cs</fileName>
+    <timeStamp>2020-03-23T23:35:05+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5afca53f8d7b8c5448fbc808c62b32d1</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Events/MalbersEvents.cs</fileName>
+    <timeStamp>2020-03-23T23:34:20+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Events.GameObjectEvent</string>
+      <string>MalbersAnimations.Events.TransformEvent</string>
+      <string>MalbersAnimations.Events.RayCastHitEvent</string>
+      <string>MalbersAnimations.Events.Vector3Event</string>
+      <string>MalbersAnimations.Events.Vector2Event</string>
+      <string>MalbersAnimations.Events.ColorEvent</string>
+      <string>MalbersAnimations.Events.IntEvent</string>
+      <string>MalbersAnimations.Events.FloatEvent</string>
+      <string>MalbersAnimations.Events.BoolEvent</string>
+      <string>MalbersAnimations.Events.StringEvent</string>
+      <string>MalbersAnimations.Events.ColliderEvent</string>
+      <string>MalbersAnimations.Events.CollisionEvent</string>
+      <string>MalbersAnimations.Events.ComponentEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b81046b34e1a6ec4a83e6937d87dd01b</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Events/UnityEventExit.cs</fileName>
+    <timeStamp>2020-03-23T23:35:34+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Events.UnityEventExit</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9c40057955ac3324f9b900fad19f1651</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Events/UnityEventRaiser.cs</fileName>
+    <timeStamp>2020-03-23T23:35:08+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Events.UnityEventRaiser</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f6b37728fc2778049bf789f6eac9305a</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/ID/Action.cs</fileName>
+    <timeStamp>2020-03-23T23:36:15+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Action</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ca1699aa863838f44bdfb6e61ab11564</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/ID/IDs.cs</fileName>
+    <timeStamp>2020-03-23T23:35:46+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.IDs</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>39daec8cf071d2748800dd991ba37035</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/ID/ModeID.cs</fileName>
+    <timeStamp>2020-03-23T23:34:00+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.ModeID</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fca34201e166e494a8840e3110a6b832</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/ID/StanceID.cs</fileName>
+    <timeStamp>2020-03-23T23:36:19+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.StanceID</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3eb17ad6c31d9eb4388e6e95d0d0c574</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/ID/StateID.cs</fileName>
+    <timeStamp>2020-03-23T23:34:04+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.StateID</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d6bc9525668e41846992f78c6d05b3b6</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/ID/StatID.cs</fileName>
+    <timeStamp>2020-03-23T23:35:57+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.StatID</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>12fd74a46159fd04b9a3d3d643cdb50f</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Input/MalbersInput.cs</fileName>
+    <timeStamp>2020-03-23T23:33:35+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.MalbersInput</string>
+      <string>MalbersAnimations.InputRow</string>
+      <string>MalbersAnimations.InputAxis</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8097927ca26ab4343a884532eb8eb442</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Input/MInput.cs</fileName>
+    <timeStamp>2020-03-23T23:34:48+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.MInput</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e45ff9ab2dc0a874fb5e2ce5777bc201</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Input/MobileJoystick.cs</fileName>
+    <timeStamp>2020-03-23T23:36:03+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.MobileJoystick</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2df876db0d2316b4c8962f736bcc1453</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Interfaces/IAIControl.cs</fileName>
+    <timeStamp>2020-03-23T23:33:53+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.IAIControl</string>
+      <string>MalbersAnimations.IAITarget</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>22e8da3db93031a4497f9f5547faaf99</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Interfaces/IAim.cs</fileName>
+    <timeStamp>2020-03-23T23:33:45+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.IAim</string>
+      <string>MalbersAnimations.IAimTarget</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>79342fddd427f4545994257f98d395d8</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Interfaces/IAlign.cs</fileName>
+    <timeStamp>2020-03-23T23:34:40+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.IAlign</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9d37b5fb1297b644e877cf9d293a1b4f</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Interfaces/IAnimatorBehaviour.cs</fileName>
+    <timeStamp>2020-03-23T23:35:09+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.IAnimatorBehaviour</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a1d9baf5ce13e604787d4dba7b0a8515</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Interfaces/IGravity.cs</fileName>
+    <timeStamp>2020-03-23T23:35:13+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.IGravity</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d6415bb79c3c87847b7a8d9f1b7373a9</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Interfaces/IInteractable.cs</fileName>
+    <timeStamp>2020-03-23T23:35:56+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.IInteractable</string>
+      <string>MalbersAnimations.IDestination</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f53602c2699c4a8c28b25f3a65c32</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Interfaces/iMalbersInput.cs</fileName>
+    <timeStamp>2020-03-23T23:33:52+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.IInputSource</string>
+      <string>MalbersAnimations.IInputSystem</string>
+      <string>MalbersAnimations.ICharacterMove</string>
+      <string>MalbersAnimations.DefaultInput</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c0cbaf4d63fe6664a89207b965ba7020</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Interfaces/IMDamage.cs</fileName>
+    <timeStamp>2020-03-23T23:35:38+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.IMDamage</string>
+      <string>MalbersAnimations.IMHitLayer</string>
+      <string>MalbersAnimations.Damager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8815d49d883d01047a35d6c534b954b4</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Interfaces/IScene.cs</fileName>
+    <timeStamp>2020-03-23T23:34:53+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.IScene</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>acca0c87b10c6db4197257bacd4d82f1</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Interfaces/IWayPoint.cs</fileName>
+    <timeStamp>2020-03-23T23:35:23+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.IWayPoint</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>00fcb0528820550499d051030855ca6d</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Readme/Readme.cs</fileName>
+    <timeStamp>2020-03-23T23:33:25+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Readme</string>
+      <string>MalbersAnimations.Readme+Section</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2f70bf6349f724f4199124d790ad2a57</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Readme/Editor/ReadmeEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:33:54+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c084bb85b499301498518868eb44437c</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Events/MEvent.cs</fileName>
+    <timeStamp>2020-03-23T23:35:38+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Events.MEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>41eb9c17bc0693d448a412425a2d17b0</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Events/MEventListener.cs</fileName>
+    <timeStamp>2020-03-23T23:34:06+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Events.MEventListener</string>
+      <string>MalbersAnimations.Events.AdvancedIntegerEvent</string>
+      <string>MalbersAnimations.Events.AdvancedBoolEvent</string>
+      <string>MalbersAnimations.Events.MEventItemListener</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a6cccf4c889cea24f8af3efa875008e7</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/BoolReference.cs</fileName>
+    <timeStamp>2020-03-23T23:35:17+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.BoolReference</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>24975ec8507a99646bef2599da38eb42</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/BoolVar.cs</fileName>
+    <timeStamp>2020-03-23T23:33:46+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.BoolVar</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7878c94402156f54bac49f74151e0507</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/BoolVarListener.cs</fileName>
+    <timeStamp>2020-03-23T23:34:38+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.BoolVarListener</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a9196e20e00e7da44a3d72bd746f15df</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/ColorReference.cs</fileName>
+    <timeStamp>2020-03-23T23:35:19+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.ColorReference</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>493d34fa313b5214f861417e71824c58</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/ColorVar.cs</fileName>
+    <timeStamp>2020-03-23T23:34:09+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.ColorVar</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9f56dd26140938141b22098a8e568157</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/FloatReference.cs</fileName>
+    <timeStamp>2020-03-23T23:35:11+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.FloatReference</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>430f4b739740ffb4ba6961f6bb00f801</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/FloatVar.cs</fileName>
+    <timeStamp>2020-03-23T23:34:07+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.FloatVar</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b02552e327ef8b047abd0dc3defd297a</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/FloatVarListener.cs</fileName>
+    <timeStamp>2020-03-23T23:35:28+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.FloatVarListener</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f9f360adfc7d2fb4ba0e53fe98902806</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/IntReference.cs</fileName>
+    <timeStamp>2020-03-23T23:36:16+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.IntReference</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>98ea95601fbf85b49b69663c2b27fbf0</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/IntVar.cs</fileName>
+    <timeStamp>2020-03-23T23:35:06+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.IntVar</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>65276f6aa0e26724eacfd2b0ba298e50</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/LayerReference.cs</fileName>
+    <timeStamp>2020-03-23T23:34:26+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.LayerReference</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d496f8f89b324ac42b49bc3acaa049d9</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/LayerVar.cs</fileName>
+    <timeStamp>2020-03-23T23:35:55+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.LayerVar</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f87ed1289828493479a37236c5264d2c</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/ResetScriptableVars.cs</fileName>
+    <timeStamp>2020-03-23T23:36:15+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.ResetScriptableVars</string>
+      <string>MalbersAnimations.Scriptables.ScriptableVarReseter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f3e92b43d085b42419efa838a2925f47</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/ScriptableVar.cs</fileName>
+    <timeStamp>2020-03-23T23:36:13+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.ScriptableVar</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d28843200e7bf9644b56eeca6c93e998</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/StringReference.cs</fileName>
+    <timeStamp>2020-03-23T23:35:54+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.StringReference</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>10d4ebb914b3bbd43a7bb647b6826474</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/StringVar.cs</fileName>
+    <timeStamp>2020-03-23T23:33:33+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.StringVar</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>730121b20e037c349b1c71d6a6832e50</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/Vector2Reference.cs</fileName>
+    <timeStamp>2020-03-23T23:34:34+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.Vector2Reference</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ed5196e635547a445a9b18f6119d56c4</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/Vector2Var.cs</fileName>
+    <timeStamp>2020-03-23T23:36:10+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.Vector2Var</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f986ae6c6273f9540affaa61ba8da758</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/Vector3Reference.cs</fileName>
+    <timeStamp>2020-03-23T23:36:16+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.Vector3Reference</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aaed06204f2b0b64da554e62c9a9bc5d</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/Vector3Var.cs</fileName>
+    <timeStamp>2020-03-23T23:35:20+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Scriptables.Vector3Var</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1b0f916d4b6de9e42a0aee8d2cf2c4e1</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/Editor/VariableEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:33:39+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5f507bb2fb1586f4184d0ccd5b0225c6</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Scriptable Variables/Editor/VariableReferenceDrawer.cs</fileName>
+    <timeStamp>2020-03-23T23:34:22+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ac34ad18db7b6a54ea19593deb0a15cf</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Tags/ITag.cs</fileName>
+    <timeStamp>2020-03-23T23:35:22+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.ITag</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ecc37372d7c6c6f4cb3acdf88f84d99d</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Tags/Tag.cs</fileName>
+    <timeStamp>2020-03-23T23:36:09+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Tag</string>
+      <string>MalbersAnimations.Tags</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>20201266b5fdc6c4ca0fa6ce10d048c8</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Tags/Tags.cs</fileName>
+    <timeStamp>2020-03-23T23:33:42+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Tags</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>25d94ecbfbdcf48449c1f21ac83b2935</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/UI/FadeInOutGraphic.cs</fileName>
+    <timeStamp>2020-03-23T23:33:47+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.FadeInOutGraphic</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c51aadafe0cedb841ac535263babb1a9</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/ActiveMeshes.cs</fileName>
+    <timeStamp>2020-03-23T23:35:43+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.ActiveMeshes</string>
+      <string>MalbersAnimations.Utilities.ActiveSMesh</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4cf9548d1f32af143802e526c7043914</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/Aim.cs</fileName>
+    <timeStamp>2020-03-23T23:34:11+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.Aim</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>149655f5fc18e11419380005a139e5e7</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/AITarget.cs</fileName>
+    <timeStamp>2020-03-23T23:33:36+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.AITarget</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>88c14b3cd29479548aab2c6b8f8c60d7</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/Aligner.cs</fileName>
+    <timeStamp>2020-03-23T23:34:53+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.Aligner</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8e781cdad4f49ae4e9156727711ebf8e</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/AnimatorEventSounds.cs</fileName>
+    <timeStamp>2020-03-23T23:34:58+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.AnimatorEventSounds</string>
+      <string>MalbersAnimations.Utilities.EventSound</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>457598144384c694ab09dc093debbc2c</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/BlendShape.cs</fileName>
+    <timeStamp>2020-03-23T23:34:08+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.BlendShape</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b496887c66f2ef14ba9fd8a45c7c03a5</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/BlendShapePreset.cs</fileName>
+    <timeStamp>2020-03-23T23:35:32+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.BlendShapePreset</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>78fcdc7f635dc6143a5ffbcc404315d4</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/BlinkEyes.cs</fileName>
+    <timeStamp>2020-03-23T23:34:40+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.BlinkEyes</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ba8d439db455dd3428e612c6880682f4</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/ColliderProxy.cs</fileName>
+    <timeStamp>2020-03-23T23:35:35+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.ColliderProxy</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7e0b5b9d4af0f31439aabd6b5de7b49e</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/Comment.cs</fileName>
+    <timeStamp>2020-03-23T23:34:44+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.CommentB</string>
+      <string>MalbersAnimations.Utilities.Comment</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>851fb58049933a341a4656b7c194b91c</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/DeltaTransform.cs</fileName>
+    <timeStamp>2020-03-23T23:34:51+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.DeltaTransform</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b92291a176b47144facd8f9170f81649</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/FlagAttribute.cs</fileName>
+    <timeStamp>2020-03-23T23:35:35+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.FlagAttribute</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9b4de088e089c164bb239be84964ea4c</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/GizmoVisualizer.cs</fileName>
+    <timeStamp>2020-03-23T23:35:08+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.GizmoVisualizer</string>
+      <string>MalbersAnimations.GizmoVisualizer+GizmoType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4fe16ec3162ead64d8719dc705f4f93f</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/Hash.cs</fileName>
+    <timeStamp>2020-03-23T23:34:12+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Hash</string>
+      <string>MalbersAnimations.Int_ID</string>
+      <string>MalbersAnimations.ModeEnum</string>
+      <string>MalbersAnimations.StateEnum</string>
+      <string>MalbersAnimations.AnimTag</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3438e97d3cf74cf4b8684df9fad6757b</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/IntComparer.cs</fileName>
+    <timeStamp>2020-03-23T23:33:57+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.IntComparer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b8ead8759b84df64c9627c1034c24fb2</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/IntVarListener.cs</fileName>
+    <timeStamp>2020-03-23T23:35:34+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.IntVarListener</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>92c3d9f92d6776d4bbabc778b5258c31</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/LockAxis.cs</fileName>
+    <timeStamp>2020-03-23T23:35:01+05:30</timeStamp>
+    <typeFullName>
+      <string>LockAxis</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>11aead5ee6e6f3a419e6d84b489a7d43</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/LookAt.cs</fileName>
+    <timeStamp>2020-03-23T23:33:34+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.LookAt</string>
+      <string>MalbersAnimations.Utilities.LookAt+BoneRotation</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fed2cce853f9fad40b22f1cf3784d597</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/LookAtCamera.cs</fileName>
+    <timeStamp>2020-03-23T23:36:22+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.LookAtCameraUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e517918905ee9464c8aeae69027a834b</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/LookAtTrigger.cs</fileName>
+    <timeStamp>2020-03-23T23:36:04+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.AimTarget</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c7f8e4eb3c0fba24f9c68538449d0483</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/MalbersAnimationExtensions.cs</fileName>
+    <timeStamp>2020-03-23T23:35:44+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimationsExtensions</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1b3782a87bc995b458d975b3f201820f</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/MalbersTools.cs</fileName>
+    <timeStamp>2020-03-23T23:33:40+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.MalbersTools</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1f7b187428519474db57076680c22084</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/MaterialChanger.cs</fileName>
+    <timeStamp>2020-03-23T23:33:42+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.MaterialChanger</string>
+      <string>MalbersAnimations.Utilities.MaterialItem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>00927114c2fe0574a9dfd9e5b1261440</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/Messages.cs</fileName>
+    <timeStamp>2020-03-23T23:33:25+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.Messages</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>63415f020076f274c912c95be98e9b2f</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/MGameSettings.cs</fileName>
+    <timeStamp>2020-03-23T23:34:25+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.MGameSettings</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4aabe4884ef7b53498d2bc6689272ee6</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/MinMaxRangeAttribute.cs</fileName>
+    <timeStamp>2020-03-23T23:34:10+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.MinMaxRangeAttribute</string>
+      <string>MalbersAnimations.LineAttribute</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a9deb6e7717bd59489eda60ab51b81bb</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/Pivots.cs</fileName>
+    <timeStamp>2020-03-23T23:35:20+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Pivots</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fe1917a337f2f564caa18dd85798657d</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/PublicEnums.cs</fileName>
+    <timeStamp>2020-03-23T23:36:21+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.InputType</string>
+      <string>MalbersAnimations.WayPointType</string>
+      <string>MalbersAnimations.FieldColor</string>
+      <string>MalbersAnimations.InputButton</string>
+      <string>MalbersAnimations.StateTransition</string>
+      <string>MalbersAnimations.ComparerInt</string>
+      <string>MalbersAnimations.ComparerBool</string>
+      <string>MalbersAnimations.TypeMessage</string>
+      <string>MalbersAnimations.WeaponHolder</string>
+      <string>MalbersAnimations.MStatus</string>
+      <string>MalbersAnimations.EEnterExit</string>
+      <string>MalbersAnimations.AxisDirection</string>
+      <string>MalbersAnimations.UpdateMode</string>
+      <string>MalbersAnimations.WA</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e62bb2997f351844bbbb6a384507136e</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/RangedFloat.cs</fileName>
+    <timeStamp>2020-03-23T23:36:05+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.RangedFloat</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7f0b0ca15fed4cc47a9208f78224c0f3</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/ScaleBonesFix.cs</fileName>
+    <timeStamp>2020-03-23T23:34:46+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.ScaleBonesFix</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>98f218fe00a28db408b293bc322d5dd2</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/SlowMotion.cs</fileName>
+    <timeStamp>2020-03-23T23:35:07+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.SlowMotion</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8cf937292b3486349be03b213ec1bb67</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/SoundByMaterial.cs</fileName>
+    <timeStamp>2020-03-23T23:34:57+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.MaterialSound</string>
+      <string>MalbersAnimations.Utilities.SoundByMaterial</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>181eb898d7c8aa441b8df05cec988f7d</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/StepsManager.cs</fileName>
+    <timeStamp>2020-03-23T23:33:38+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.StepsManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d28118109a4a004ea7f53889baf6f50</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/StepTrigger.cs</fileName>
+    <timeStamp>2020-03-23T23:33:32+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.StepTrigger</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d0afec1db5eb8154eb73beb291109023</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/TransformAnimation.cs</fileName>
+    <timeStamp>2020-03-23T23:35:52+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.AnimCycle</string>
+      <string>MalbersAnimations.TransformAnimation</string>
+      <string>MalbersAnimations.TransformAnimation+AnimTransType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4dbb8d1e86287c2498b5ab8eaeb5a1a1</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/TriggerEnter.cs</fileName>
+    <timeStamp>2020-03-23T23:34:11+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.TriggerEnter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>feafb137ffacf4e438c7280487d5a737</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/TriggerExit.cs</fileName>
+    <timeStamp>2020-03-23T23:36:22+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.TriggerExit</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>42b20103f05ec694e9515e126d8eb956</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/TriggerProxy.cs</fileName>
+    <timeStamp>2020-03-23T23:34:06+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.TriggerProxy</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f2a678aa093696e44886619b4e971c6b</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/UIFollowTransform.cs</fileName>
+    <timeStamp>2020-03-23T23:36:12+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.UIFollowTransform</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b648574bbb96a7f47ae4a33f5e15fb7d</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/UpVectorTransform.cs</fileName>
+    <timeStamp>2020-03-23T23:35:33+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.UpVectorTransform</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4c4597515aa1db34e8569266f34c5da0</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/UseTransform.cs</fileName>
+    <timeStamp>2020-03-23T23:34:11+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.UpdateMode</string>
+      <string>MalbersAnimations.UseTransform</string>
+      <string>MalbersAnimations.UseTransform+UpdateMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>095317938a2ebad4d8857fbb88293ff5</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/ValueToString.cs</fileName>
+    <timeStamp>2020-03-23T23:33:30+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Utilities.ValueToString</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aecccf59268f04746979ebd97035aea3</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/Attributes/ConditionalHideAttribute.cs</fileName>
+    <timeStamp>2020-03-23T23:35:27+05:30</timeStamp>
+    <typeFullName>
+      <string>ConditionalHideAttribute</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bcae70200b772b7478985a0652e478a9</guid>
+    <fileName>Assets/Malbers Animations/Common/Scripts/Utility/Attributes/RequiredFieldAttribute.cs</fileName>
+    <timeStamp>2020-03-23T23:35:36+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.RequiredFieldAttribute</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6a7b04e0908dbdc429208b5b21806060</guid>
+    <fileName>Assets/Malbers Animations/Ultimate Selector/Editor/MItemEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:34:28+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ce6974883a47f6b4cabc20777d503bba</guid>
+    <fileName>Assets/Malbers Animations/Ultimate Selector/Editor/SelectorControllerEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:35:49+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>229bd0101d3ffc24cae98ba2c3ec5703</guid>
+    <fileName>Assets/Malbers Animations/Ultimate Selector/Editor/SelectorDataEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:33:45+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a8b27c5d52dcac9429bf4efcc9a99b25</guid>
+    <fileName>Assets/Malbers Animations/Ultimate Selector/Editor/SelectorEditorEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:35:18+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a944bc3c4910b3446bec7cc7060a718a</guid>
+    <fileName>Assets/Malbers Animations/Ultimate Selector/Editor/SelectorManagerEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:35:19+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>98b392ce49ff3a8408fa837de8e65ce6</guid>
+    <fileName>Assets/Malbers Animations/Ultimate Selector/Scripts/CenterOnMouse.cs</fileName>
+    <timeStamp>2020-03-23T23:35:06+05:30</timeStamp>
+    <typeFullName>
+      <string>CenterOnMouse</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>73f0e5b396081bb48b9c06da2af78798</guid>
+    <fileName>Assets/Malbers Animations/Ultimate Selector/Scripts/MItem.cs</fileName>
+    <timeStamp>2020-03-23T23:34:36+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Selector.MItem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e29b2d01b9fdf8743a63043a20136bf3</guid>
+    <fileName>Assets/Malbers Animations/Ultimate Selector/Scripts/MItemSet.cs</fileName>
+    <timeStamp>2020-03-23T23:36:02+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Selector.MItemSet</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>55af8bd0bb53a104f9ab7b20eb0cd841</guid>
+    <fileName>Assets/Malbers Animations/Ultimate Selector/Scripts/SelectorController CallBacks.cs</fileName>
+    <timeStamp>2020-03-23T23:34:16+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Selector.SelectorController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c1398b158ac98074a8e2f44c665e6d7e</guid>
+    <fileName>Assets/Malbers Animations/Ultimate Selector/Scripts/SelectorController Logic.cs</fileName>
+    <timeStamp>2020-03-23T23:35:39+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Selector.SelectorController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>adb1e7134d6508947ae76c45ac7324fc</guid>
+    <fileName>Assets/Malbers Animations/Ultimate Selector/Scripts/SelectorController Variables.cs</fileName>
+    <timeStamp>2020-03-23T23:35:25+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Selector.SelectorController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4fe14c3ad6e9d40a460d39d8a0347c</guid>
+    <fileName>Assets/Malbers Animations/Ultimate Selector/Scripts/SelectorController.cs</fileName>
+    <timeStamp>2020-03-23T23:33:52+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Selector.SelectorController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>321effbd808f350469a1c45b3486a580</guid>
+    <fileName>Assets/Malbers Animations/Ultimate Selector/Scripts/SelectorData.cs</fileName>
+    <timeStamp>2020-03-23T23:33:56+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Selector.SelectorSave</string>
+      <string>MalbersAnimations.Selector.SelectorData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8eaa963b5829fa7419d2b53d1bf031cd</guid>
+    <fileName>Assets/Malbers Animations/Ultimate Selector/Scripts/SelectorEditor.cs</fileName>
+    <timeStamp>2020-03-23T23:34:58+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Selector.SelectorType</string>
+      <string>MalbersAnimations.Selector.RadialAxis</string>
+      <string>MalbersAnimations.Selector.ItemRenderer</string>
+      <string>MalbersAnimations.Selector.SelectorEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e95bba114bff6744991176fa59971f69</guid>
+    <fileName>Assets/Malbers Animations/Ultimate Selector/Scripts/SelectorManager.cs</fileName>
+    <timeStamp>2020-03-23T23:36:07+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Selector.SelectorManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1d5e183bb5688364ca2664bc30ce7b7a</guid>
+    <fileName>Assets/Malbers Animations/Ultimate Selector/Scripts/SelectorUI.cs</fileName>
+    <timeStamp>2020-03-23T23:33:40+05:30</timeStamp>
+    <typeFullName>
+      <string>MalbersAnimations.Selector.SelectorUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9d432a5d3d68af34aa3aefa93fc296c1</guid>
+    <fileName>Assets/Unity-Logs-Viewer/Reporter/MultiKeyDictionary.cs</fileName>
+    <timeStamp>2020-08-17T11:52:22.82359+05:30</timeStamp>
+    <typeFullName>
+      <string>MultiKeyDictionary`3</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>600c02144c4813244abd262cbcbe8825</guid>
+    <fileName>Assets/Unity-Logs-Viewer/Reporter/Reporter.cs</fileName>
+    <timeStamp>2019-08-17T16:57:48+05:30</timeStamp>
+    <typeFullName>
+      <string>Images</string>
+      <string>Reporter</string>
+      <string>Reporter+_LogType</string>
+      <string>Reporter+Sample</string>
+      <string>Reporter+Log</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8c866050b2c752d488112993fd0ddfce</guid>
+    <fileName>Assets/Unity-Logs-Viewer/Reporter/ReporterGUI.cs</fileName>
+    <timeStamp>2020-08-17T11:52:22.8255849+05:30</timeStamp>
+    <typeFullName>
+      <string>ReporterGUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6767a180de870304caa2013b2772dd62</guid>
+    <fileName>Assets/Unity-Logs-Viewer/Reporter/ReporterMessageReceiver.cs</fileName>
+    <timeStamp>2020-08-17T11:52:22.8275789+05:30</timeStamp>
+    <typeFullName>
+      <string>ReporterMessageReceiver</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>639e2d9db58377f4997f7678b50e7e7a</guid>
+    <fileName>Assets/Unity-Logs-Viewer/Reporter/Editor/ReporterEditor.cs</fileName>
+    <timeStamp>2020-08-17T11:52:22.7717327+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fa24ce3e8b4a445479906686d9756911</guid>
+    <fileName>Assets/Unity-Logs-Viewer/Reporter/Test/Rotate.cs</fileName>
+    <timeStamp>2020-08-17T11:52:22.829575+05:30</timeStamp>
+    <typeFullName>
+      <string>Rotate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cac68c003767bec459aa60dc282ff67d</guid>
+    <fileName>Assets/Unity-Logs-Viewer/Reporter/Test/TestReporter.cs</fileName>
+    <timeStamp>2019-08-17T16:58:06+05:30</timeStamp>
+    <typeFullName>
+      <string>TestReporter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>

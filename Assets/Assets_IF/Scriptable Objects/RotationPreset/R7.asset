@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e333bf5d4d1f95b478cebcc71526b7cf, type: 3}
+  m_Name: R7
+  m_EditorClassIdentifier: 
+  rotData:
+  - {x: 3.88, y: -1.11}
+  - {x: 2.68, y: 0.01}
+  - {x: 6.25, y: -1.6}
+  - {x: 2.01, y: -2.7}
+  - {x: 5.75, y: 2.19}
+  - {x: 2.76, y: 0.21}
+  - {x: 1.27, y: 1.33}
+  - {x: 5.69, y: -1.1}
+  - {x: 6.19, y: 2.76}
+  - {x: 0.29, y: 2.462}
